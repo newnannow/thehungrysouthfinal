@@ -1,0 +1,188 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hungrysouth.com" resolutions="1x" timestamp="1495923254504">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="206956340" ref="tenderloin:support:pork-chops:ground-pork:bacon:index:picnic-ham:country-style-ribs:recipes:sausage:baby-back-ribs:glazed-ham"/>
+    <file name="nomq_preview_master_a-master.css" crc="4120258765" ref="tenderloin:support:pork-chops:ground-pork:bacon:index:picnic-ham:country-style-ribs:recipes:sausage:baby-back-ribs:glazed-ham"/>
+    <file name="tenderloin.css" crc="145540421" ref="tenderloin"/>
+    <file name="nomq_tenderloin.css" crc="4182234900" ref="tenderloin"/>
+    <file name="iefonts_tenderloin.css" crc="3824530138" ref="tenderloin"/>
+    <file name="support.css" crc="501015266" ref="support"/>
+    <file name="nomq_support.css" crc="4145915711" ref="support"/>
+    <file name="iefonts_support.css" crc="3824530138" ref="support"/>
+    <file name="pork-chops.css" crc="3922709309" ref="pork-chops"/>
+    <file name="nomq_pork-chops.css" crc="3812462497" ref="pork-chops"/>
+    <file name="iefonts_pork-chops.css" crc="3824530138" ref="pork-chops"/>
+    <file name="ground-pork.css" crc="103862239" ref="ground-pork"/>
+    <file name="nomq_ground-pork.css" crc="3956840938" ref="ground-pork"/>
+    <file name="iefonts_ground-pork.css" crc="3824530138" ref="ground-pork"/>
+    <file name="bacon.css" crc="188021497" ref="bacon"/>
+    <file name="nomq_bacon.css" crc="20321780" ref="bacon"/>
+    <file name="iefonts_bacon.css" crc="3824530138" ref="bacon"/>
+    <file name="index.css" crc="3780185709" ref="index"/>
+    <file name="nomq_index.css" crc="518577770" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="picnic-ham.css" crc="477573364" ref="picnic-ham"/>
+    <file name="nomq_picnic-ham.css" crc="324417949" ref="picnic-ham"/>
+    <file name="iefonts_picnic-ham.css" crc="3824530138" ref="picnic-ham"/>
+    <file name="country-style-ribs.css" crc="384125888" ref="country-style-ribs"/>
+    <file name="nomq_country-style-ribs.css" crc="3956880140" ref="country-style-ribs"/>
+    <file name="iefonts_country-style-ribs.css" crc="3824530138" ref="country-style-ribs"/>
+    <file name="recipes.css" crc="4268341799" ref="recipes"/>
+    <file name="nomq_recipes.css" crc="4210649761" ref="recipes"/>
+    <file name="sausage.css" crc="2328442" ref="sausage"/>
+    <file name="nomq_sausage.css" crc="4282884935" ref="sausage"/>
+    <file name="iefonts_sausage.css" crc="3824530138" ref="sausage"/>
+    <file name="baby-back-ribs.css" crc="3854368322" ref="baby-back-ribs"/>
+    <file name="nomq_baby-back-ribs.css" crc="243311628" ref="baby-back-ribs"/>
+    <file name="iefonts_baby-back-ribs.css" crc="3824530138" ref="baby-back-ribs"/>
+    <file name="glazed-ham.css" crc="272885642" ref="glazed-ham"/>
+    <file name="nomq_glazed-ham.css" crc="187411468" ref="glazed-ham"/>
+    <file name="iefonts_glazed-ham.css" crc="3824530138" ref="glazed-ham"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:recipes:support:glazed-ham:ground-pork:country-style-ribs:sausage:pork-chops:picnic-ham:baby-back-ribs:tenderloin:bacon"/>
+    <file name="museutils.js" crc="3851988764" ref="index:recipes:support:glazed-ham:ground-pork:country-style-ribs:sausage:pork-chops:picnic-ham:baby-back-ribs:tenderloin:bacon"/>
+    <file name="whatinput.js" crc="86476730" ref="index:recipes:support:glazed-ham:ground-pork:country-style-ribs:sausage:pork-chops:picnic-ham:baby-back-ribs:tenderloin:bacon"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:recipes:support:glazed-ham:ground-pork:country-style-ribs:sausage:pork-chops:picnic-ham:baby-back-ribs:tenderloin:bacon"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:recipes:support:glazed-ham:ground-pork:country-style-ribs:sausage:pork-chops:picnic-ham:baby-back-ribs:tenderloin:bacon"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:picnic-ham"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:recipes:support:glazed-ham:ground-pork:country-style-ribs:sausage:pork-chops:picnic-ham:baby-back-ribs:tenderloin:bacon"/>
+    <file name="webpro.js" crc="4067903014" ref="index:recipes:support:glazed-ham:ground-pork:country-style-ribs:sausage:pork-chops:picnic-ham:baby-back-ribs:tenderloin:bacon"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="index:recipes:support:glazed-ham:ground-pork:country-style-ribs:sausage:pork-chops:picnic-ham:baby-back-ribs:tenderloin:bacon"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:recipes:support:glazed-ham:ground-pork:country-style-ribs:sausage:pork-chops:picnic-ham:baby-back-ribs:tenderloin:bacon"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index:recipes:support:glazed-ham:ground-pork:country-style-ribs:sausage:pork-chops:picnic-ham:baby-back-ribs:tenderloin:bacon"/>
+    <file name="require.js" crc="4108833657" ref="index:recipes:support:glazed-ham:ground-pork:country-style-ribs:sausage:pork-chops:picnic-ham:baby-back-ribs:tenderloin:bacon"/>
+    <file name="pie.js" crc="3831537696" ref="recipes:support:glazed-ham:ground-pork:country-style-ribs:sausage:pork-chops:baby-back-ribs:tenderloin:bacon"/>
+  </folder>
+  <folder name="images">
+    <file name="happy-1295541_1280.png" crc="455303368" seo="true" ref="index"/>
+    <file name="spare-ribs-899306_1920.jpg" crc="3779697089" ref="index"/>
+    <file name="icon_menu.png" crc="3933183320" ref="index:recipes:support:ground-pork:baby-back-ribs:tenderloin:bacon"/>
+    <file name="spare-ribs-899306_19201280x720.jpg" crc="3782978242" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:recipes:support:glazed-ham:ground-pork:country-style-ribs:sausage:pork-chops:picnic-ham:baby-back-ribs:tenderloin:bacon"/>
+    <file name="bbq-2071922_1920-crop-u414.jpg" crc="308494591" ref="recipes"/>
+    <file name="eat-505747_1920-crop-u417.jpg" crc="3862575581" ref="recipes"/>
+    <file name="pork-1994147_1920-crop-u420.jpg" crc="4041241024" ref="recipes"/>
+    <file name="crust-roast-852041_1920-crop-u423.jpg" crc="211284486" ref="recipes"/>
+    <file name="barbecue-1305021_1920-crop-u429.jpg" crc="536626857" ref="recipes"/>
+    <file name="christmas-food-587581_1920-crop-u435.jpg" crc="4208946988" ref="recipes"/>
+    <file name="meat-1675015_1920-crop-u426.jpg" crc="493868804" ref="recipes"/>
+    <file name="meatballs-1992376_1920-crop-u432.jpg" crc="4798393" ref="recipes"/>
+    <file name="spare-ribs-2225222_1920-crop-u438.jpg" crc="4037222020" ref="recipes"/>
+    <file name="bbq-2071922_1920-crop-u4142.jpg" crc="4195432035" ref="recipes"/>
+    <file name="eat-505747_1920-crop-u4172.jpg" crc="4014150694" ref="recipes"/>
+    <file name="pork-1994147_1920-crop-u4202.jpg" crc="180101615" ref="recipes"/>
+    <file name="crust-roast-852041_1920-crop-u4232.jpg" crc="398203732" ref="recipes"/>
+    <file name="barbecue-1305021_1920-crop-u4292.jpg" crc="3884305421" ref="recipes"/>
+    <file name="christmas-food-587581_1920-crop-u4352.jpg" crc="4242706097" ref="recipes"/>
+    <file name="meat-1675015_1920-crop-u4262.jpg" crc="4228271830" ref="recipes"/>
+    <file name="meatballs-1992376_1920-crop-u4322.jpg" crc="149752792" ref="recipes"/>
+    <file name="spare-ribs-2225222_1920-crop-u4382.jpg" crc="3863423856" ref="recipes"/>
+    <file name="bbq-2071922_1920-crop-u4143.jpg" crc="408932655" ref="recipes"/>
+    <file name="eat-505747_1920-crop-u4173.jpg" crc="43295123" ref="recipes"/>
+    <file name="pork-1994147_1920-crop-u4203.jpg" crc="3964331132" ref="recipes"/>
+    <file name="crust-roast-852041_1920-crop-u4233.jpg" crc="40614373" ref="recipes"/>
+    <file name="barbecue-1305021_1920-crop-u4293.jpg" crc="4240305887" ref="recipes"/>
+    <file name="christmas-food-587581_1920-crop-u4353.jpg" crc="3878269432" ref="recipes"/>
+    <file name="meat-1675015_1920-crop-u4263.jpg" crc="390439743" ref="recipes"/>
+    <file name="meatballs-1992376_1920-crop-u4323.jpg" crc="362767923" ref="recipes"/>
+    <file name="spare-ribs-2225222_1920-crop-u4383.jpg" crc="3929941531" ref="recipes"/>
+    <file name="bbq-2071922_1920-crop-u4144.jpg" crc="376837641" ref="recipes"/>
+    <file name="eat-505747_1920-crop-u4174.jpg" crc="3971056487" ref="recipes"/>
+    <file name="pork-1994147_1920-crop-u4204.jpg" crc="3828264738" ref="recipes"/>
+    <file name="crust-roast-852041_1920-crop-u4234.jpg" crc="50433439" ref="recipes"/>
+    <file name="barbecue-1305021_1920-crop-u4294.jpg" crc="401382302" ref="recipes"/>
+    <file name="christmas-food-587581_1920-crop-u4354.jpg" crc="182457186" ref="recipes"/>
+    <file name="meat-1675015_1920-crop-u4264.jpg" crc="241575795" ref="recipes"/>
+    <file name="meatballs-1992376_1920-crop-u4324.jpg" crc="4209201041" ref="recipes"/>
+    <file name="spare-ribs-2225222_1920-crop-u4384.jpg" crc="514813760" ref="recipes"/>
+    <file name="bbq-2071922_1920-crop-u4145.jpg" crc="533969986" ref="recipes"/>
+    <file name="eat-505747_1920-crop-u4175.jpg" crc="111531815" ref="recipes"/>
+    <file name="pork-1994147_1920-crop-u4205.jpg" crc="234160555" ref="recipes"/>
+    <file name="crust-roast-852041_1920-crop-u4235.jpg" crc="148739697" ref="recipes"/>
+    <file name="barbecue-1305021_1920-crop-u4295.jpg" crc="4177545396" ref="recipes"/>
+    <file name="christmas-food-587581_1920-crop-u4355.jpg" crc="116794118" ref="recipes"/>
+    <file name="meat-1675015_1920-crop-u4265.jpg" crc="228465597" ref="recipes"/>
+    <file name="meatballs-1992376_1920-crop-u4325.jpg" crc="3858480611" ref="recipes"/>
+    <file name="spare-ribs-2225222_1920-crop-u4385.jpg" crc="4479403" ref="recipes"/>
+    <file name="bbq-2071922_1920-crop-u4146.jpg" crc="4162708397" ref="recipes"/>
+    <file name="eat-505747_1920-crop-u4176.jpg" crc="106195310" ref="recipes"/>
+    <file name="pork-1994147_1920-crop-u4206.jpg" crc="3982776081" ref="recipes"/>
+    <file name="crust-roast-852041_1920-crop-u4236.jpg" crc="3868749121" ref="recipes"/>
+    <file name="barbecue-1305021_1920-crop-u4296.jpg" crc="3823631293" ref="recipes"/>
+    <file name="christmas-food-587581_1920-crop-u4356.jpg" crc="3993594654" ref="recipes"/>
+    <file name="meat-1675015_1920-crop-u4266.jpg" crc="180685499" ref="recipes"/>
+    <file name="meatballs-1992376_1920-crop-u4326.jpg" crc="4259649849" ref="recipes"/>
+    <file name="spare-ribs-2225222_1920-crop-u4386.jpg" crc="4125466168" ref="recipes"/>
+    <file name="click-978028_1920-crop-u1119.png" crc="3775834226" ref="support"/>
+    <file name="u1144-grad.png" crc="131091732" ref="support"/>
+    <file name="click-978028_1920306x307.png" crc="125371841" seo="true" ref="support"/>
+    <file name="u1144-grad2.png" crc="80255374" ref="support"/>
+    <file name="click-978028_1920284x285.png" crc="3916862358" seo="true" ref="support"/>
+    <file name="click-978028_1920226x226.png" crc="25944631" seo="true" ref="support"/>
+    <file name="click-978028_1920208x208.png" crc="3770087933" seo="true" ref="support"/>
+    <file name="christmas-food-587581_1920-ieu1297-fr.png" crc="4237689064" ref="glazed-ham"/>
+    <file name="christmas-food-587581_1920.jpg" crc="4269702107" ref="glazed-ham"/>
+    <file name="christmas-food-587581_1920-u1297-fr.jpg" crc="4196852059" ref="glazed-ham"/>
+    <file name="christmas-food-587581_1920-u1297-fr2.jpg" crc="4147545324" ref="glazed-ham"/>
+    <file name="christmas-food-587581_1920-u1297-fr3.jpg" crc="428855744" ref="glazed-ham"/>
+    <file name="christmas-food-587581_1920-u1297-fr4.jpg" crc="4091402182" ref="glazed-ham"/>
+    <file name="meatballs-1992354_1920-ieu1466-fr.png" crc="509023533" ref="ground-pork"/>
+    <file name="meatballs-1992354_1920.jpg" crc="343996091" ref="ground-pork"/>
+    <file name="meatballs-1992354_1920-u1466-fr.jpg" crc="124712530" ref="ground-pork"/>
+    <file name="meatballs-1992354_1920-u1466-fr2.jpg" crc="60955502" ref="ground-pork"/>
+    <file name="meatballs-1992354_1920-u1466-fr3.jpg" crc="3797189240" ref="ground-pork"/>
+    <file name="meatballs-1992354_1920-u1466-fr4.jpg" crc="93831308" ref="ground-pork"/>
+    <file name="meatballs-1992354_1920-u1466-fr5.jpg" crc="43265790" ref="ground-pork"/>
+    <file name="spare-ribs-2225222_1920.jpg" crc="273452943" ref="country-style-ribs"/>
+    <file name="spare-ribs-2225222_1920-u1869-fr.jpg" crc="348439984" ref="country-style-ribs"/>
+    <file name="spare-ribs-2225222_1920-ieu1869-fr.png" crc="45886367" ref="country-style-ribs"/>
+    <file name="spare-ribs-2225222_1920-u1869-fr2.jpg" crc="3991101992" ref="country-style-ribs"/>
+    <file name="soup-475077_1280.jpg" crc="3894922662" ref="sausage"/>
+    <file name="soup-475077_1280-u1898-fr.jpg" crc="3957777283" ref="sausage"/>
+    <file name="soup-475077_1280-u1898-fr2.jpg" crc="489084353" ref="sausage"/>
+    <file name="soup-475077_1280-u1898-fr3.jpg" crc="424503735" ref="sausage"/>
+    <file name="soup-475077_1280-u1898-fr4.jpg" crc="385616542" ref="sausage"/>
+    <file name="pork-1085659_1920.jpg" crc="4037121174" ref="pork-chops"/>
+    <file name="pork-1085659_1920-u1927-fr.jpg" crc="416789638" ref="pork-chops"/>
+    <file name="pork-1085659_1920-u1927-fr2.jpg" crc="377468732" ref="pork-chops"/>
+    <file name="pork-1085659_1920-u1927-fr3.jpg" crc="28441680" ref="pork-chops"/>
+    <file name="crust-roast-852041_1920.jpg" crc="3791404760" ref="picnic-ham"/>
+    <file name="crust-roast-852041_1920-u1955-fr.jpg" crc="75940729" ref="picnic-ham"/>
+    <file name="crust-roast-852041_1920-u1955-fr2.jpg" crc="282592904" ref="picnic-ham"/>
+    <file name="crust-roast-852041_1920-u1955-fr3.jpg" crc="103710415" ref="picnic-ham"/>
+    <file name="bbq-2071922_1920-ieu1355-fr.png" crc="4127349705" ref="baby-back-ribs"/>
+    <file name="bbq-2071922_1920.jpg" crc="242817136" ref="baby-back-ribs"/>
+    <file name="bbq-2071922_1920-u1355-fr.jpg" crc="385679613" ref="baby-back-ribs"/>
+    <file name="bbq-2071922_1920-u1355-fr2.jpg" crc="404596183" ref="baby-back-ribs"/>
+    <file name="bbq-2071922_1920-u1355-fr3.jpg" crc="224758666" ref="baby-back-ribs"/>
+    <file name="bbq-2071922_1920-u1355-fr4.jpg" crc="4151007094" ref="baby-back-ribs"/>
+    <file name="bbq-2071922_1920-u1355-fr5.jpg" crc="4220763101" ref="baby-back-ribs"/>
+    <file name="pig-1832146_1920-ieu1386-fr.png" crc="3770041853" ref="tenderloin"/>
+    <file name="pig-1832146_1920.jpg" crc="4200802478" ref="tenderloin"/>
+    <file name="pig-1832146_1920-u1386-fr.jpg" crc="3990647671" ref="tenderloin"/>
+    <file name="pig-1832146_1920-u1386-fr2.jpg" crc="4150407106" ref="tenderloin"/>
+    <file name="pig-1832146_1920-u1386-fr3.jpg" crc="4207261238" ref="tenderloin"/>
+    <file name="pig-1832146_1920-u1386-fr4.jpg" crc="533769871" ref="tenderloin"/>
+    <file name="pig-1832146_1920-u1386-fr5.jpg" crc="4075921587" ref="tenderloin"/>
+    <file name="pig-1832146_1920-u1386-fr6.jpg" crc="21513597" ref="tenderloin"/>
+    <file name="salad-210717_1920-crop-u1414.jpg" crc="522016789" ref="bacon"/>
+    <file name="salad-210717_1920-crop-u14142.jpg" crc="3761653616" ref="bacon"/>
+    <file name="salad-210717_1920-crop-u14143.jpg" crc="3805962929" ref="bacon"/>
+    <file name="salad-210717_1920-crop-u14144.jpg" crc="521244813" ref="bacon"/>
+    <file name="salad-210717_1920-crop-u14145.jpg" crc="3838469252" ref="bacon"/>
+    <file name="salad-210717_1920-crop-u14146.jpg" crc="30235510" ref="bacon"/>
+  </folder>
+  <file name="index.html" crc="266582992" seo="true" mt="1495922100396" redirect="true"/>
+  <file name="recipes.html" crc="173401052" seo="true" mt="1495922558544" redirect="true"/>
+  <file name="support.html" crc="407421630" seo="true" mt="1495923041076" redirect="true"/>
+  <file name="glazed-ham.html" crc="134498799" seo="true" mt="1495922100396" redirect="true"/>
+  <file name="ground-pork.html" crc="254248069" seo="true" mt="1495922100396" redirect="true"/>
+  <file name="country-style-ribs.html" crc="4213259012" seo="true" mt="1495922100396" redirect="true"/>
+  <file name="sausage.html" crc="3961766174" seo="true" mt="1495922100396" redirect="true"/>
+  <file name="pork-chops.html" crc="3759836488" seo="true" mt="1495922100396" redirect="true"/>
+  <file name="picnic-ham.html" crc="48034550" seo="true" mt="1495922100396" redirect="true"/>
+  <file name="baby-back-ribs.html" crc="380134244" seo="true" mt="1495922100396" redirect="true"/>
+  <file name="tenderloin.html" crc="230813006" seo="true" mt="1495922100396" redirect="true"/>
+  <file name="bacon.html" crc="4011108456" seo="true" mt="1495922100396" redirect="true"/>
+</manifest>
