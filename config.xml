@@ -12,10 +12,14 @@
   <description>
      9 great Pork recipes
   </description>
+    
+    
 
   <author  email="newnannow@gmail.com">
       Southern Ronnie
   </author>
+    
+    <icon src="icon.png" />
 
 </widget>
 
